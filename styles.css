@@ -1,0 +1,12 @@
+body{
+    width: 200px;
+    background-color: rgb(209, 209, 46);
+    font-family: Arial, Helvetica, sans-serif;
+}
+form{
+    width: 100px;
+    margin: auto;
+    padding: 10px;
+    margin-bottom: 2000px;
+    border: 1px;
+}
